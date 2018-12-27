@@ -1,0 +1,11 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: kwin-effects-yaml
+Source: https://github.com/zzag/kwin-effects-yaml
+
+Files: *
+Copyright: 2018 Vlad Zagorodniy <vladzzag@gmail.com>
+License: GPL-2+
+
+Files: debian/*
+Copyright: 2018 Kristopher Ives <kristopher.ives@gmail.com>
+License: GPL-2+

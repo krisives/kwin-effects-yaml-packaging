@@ -11,7 +11,8 @@ Build-Depends:
  libkf5coreaddons-dev,
  libkf5windowsystem-dev,
  qtbase5-dev,
- pkg-config
+ pkg-config,
+ libdbus-1-dev
 Standards-Version: 4.1.2
 Homepage: https://github.com/zzag/kwin-effects-yaml
 Vcs-Git: https://github.com/zzag/kwin-effects-yaml.git
